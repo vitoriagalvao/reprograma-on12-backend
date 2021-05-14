@@ -1,0 +1,22 @@
+Algoritmo Soma
+
+var: 
+n1,n2,n3: inteiro
+soma : real
+
+inicio
+Escreva("Digite o 1º número: ")
+leia(n1)
+Escreva("Digite o 2º número: ")
+leia(n2)
+Escreva("Digite o 3º número: ")
+leia(n2)
+
+soma <- n1+n2+n3
+Escreval("Resultado é: ", soma)
+
+Fimalgoritmo
+
+
+
+
