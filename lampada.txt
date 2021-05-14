@@ -1,0 +1,18 @@
+ 
+Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
+
+1- Ligue o interuptor
+se a lampada esta acender então  não precisa trocar a lampada
+senão
+desligue o interuptor
+pegue uma escada e direcione abaixo do bocal da lampada queimada
+suba na escada com a lampada nova nas mãos
+retire a lampada velha
+insira a nova
+desça da escada
+ligue o interuptor
+se a lampada acender
+fim-se
+
+senão
+peça ajuda de um eletricista!
