@@ -1,0 +1,19 @@
+- desligue o carro
+- abra a porta e saia
+- abra o porta malas
+- pegue o step ou pneu sobrando
+- pegue o macaco
+- feche o porta malas
+- insira o macaco debaixo da lataria do carro, ao lado do pneu furado
+- levante até que o carro fique apoiado
+- gire a chava de roda no sentido anti-horario
+- deixe os parafusos soltos sem desprendê-los
+- levante mais o carro com a ajuda do macaco
+- gire os parafusos no sentido horário até que estejam soltos para serem removidos
+- remova o pneu furado e coloque-o sob o veiculo
+- pegue o step, encaixe no eixo alinhando os pontos dos parafusos
+- insira os parafusos no pontos, dê uma volta em cada um com a chave de roda
+- aperte até o fim igualando todos
+- baixe o macaco
+- guarde o pneu e o macaco no porta malas
+- pronto
