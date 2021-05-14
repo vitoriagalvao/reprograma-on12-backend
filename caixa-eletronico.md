@@ -1,0 +1,7 @@
+- Informar a funcao debito
+- inserir cartao
+- colocar a senha
+- apertar o botao verde
+- retirar o cartao
+- finalizar a opercao
+- pegar a nota fiscal
